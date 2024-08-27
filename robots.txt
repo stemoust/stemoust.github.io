@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://stemoust.github.io/sitemap.html.gz
+Sitemap: https://stemoust.github.io/app/sitemap.html.gz
+Sitemap: https://stemoust.github.io/assets/sitemap.html.gz
+Sitemap: https://stemoust.github.io/css/sitemap.html.gz
+Sitemap: https://stemoust.github.io/includes/sitemap.html.gz
+Sitemap: https://stemoust.github.io/item/sitemap.html.gz
+Sitemap: https://stemoust.github.io/src/sitemap.html.gz
